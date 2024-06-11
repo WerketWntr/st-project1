@@ -1,6 +1,6 @@
 <b>A simple personal notes manager application, inside which can register, login and create personal notes.</b>
-Based on  [Laravel 11 Crash Course](https://youtu.be/eUNWzJUvkCA)
-Installation
+<p>Based on  [Laravel 11 Crash Course](https://youtu.be/eUNWzJUvkCA)</p>
+<p>Installation</p>
 <ul>
 <li>Clone the project</li>
 <li>Navigate to the project's root directory using terminal</li>
